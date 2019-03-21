@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="enter_a_city">Enter a City</string>
+    <string name="weather">Weather</string>
+    <string name="choose_in_map">Choose in Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="location">Location</string>
+</resources>
